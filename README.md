@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @prabincankod
+- 👀 I’m interested in Nodejs , TS , Python , UI/UX
