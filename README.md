@@ -25,4 +25,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabincankod&" alt="prabincankod" /></p>
 
- ![]([image.png](https://holopin.io/api/user/board?user=prabincankod))
+[![@prabincankod's Holopin board](https://holopin.io/api/user/board?user=prabincankod)](https://holopin.io/@prabincankod)
+
