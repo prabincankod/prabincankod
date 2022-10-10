@@ -24,4 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabincankod&show_icons=true&locale=en" alt="prabincankod" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabincankod&" alt="prabincankod" /></p>
-![@prabincankod's Holopin board](https://holopin.io/api/user/board?user=prabincankod)]
+
+ ![]([image.png](https://holopin.io/api/user/board?user=prabincankod))
