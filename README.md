@@ -5,10 +5,8 @@ Passionate Fullstack Developer
 ------------------------------
 
 * 🌍  I'm based in Nepal
-* 🖥️  See my portfolio at [website](http://prabinsubedi.tech)
 * ✉️  You can contact me at [prabincankod@gmail.com](mailto:prabincankod@gmail.com)
-* 🚀  I'm currently working on [Hometaystories.com](http://homestaystories.com)
-* 🧠  I'm learning to be Framework Agnostic , Crafting better end products.
+* 🚀  I'm currently working on everyting [@prasuco](https://github.com/prasuco)
 * 🤝  I'm open to collaborating on Projects that make impact.
 
 <a href="https://www.github.com/prabincankod" target="_blank" rel="noreferrer"><img
