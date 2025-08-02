@@ -9,8 +9,7 @@ Passionate Fullstack Developer
 * 🚀  I'm currently working on everyting [@prasuco](https://github.com/prasuco)
 * 🤝  I'm open to collaborating on Projects that make impact.
 
-<a href="https://www.github.com/prabincankod" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/prabincankod?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 
 ### Skills
 
