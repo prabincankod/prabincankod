@@ -1,3 +1,3 @@
-## Hiya, Prabin Subedi, also known in the internet as `@prabincankod`
+## Hiya, I am Prabin Subedi
 
-Currently focusing on sagelike behaviours.
+Currently teaching myself how to be a sage.
